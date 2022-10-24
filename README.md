@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fishtank1
+- 👋 Hi, I’m Soumyajeet Sengupta
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React and DSA
 - 💞️ I’m looking to collaborate on Frontend Projects
