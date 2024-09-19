@@ -63,4 +63,4 @@ I'm a **self-taught full-stack web developer** currently diving deep into the **
 
 ---
 
-Feel free to check out my [projects](https://github.com/fishtank1?tab=repositories) and connect with me on [LinkedIn](www.linkedin.com/in/soumyajeet-s-49302b241)!
+Feel free to check out my [projects](https://github.com/fishtank1?tab=repositories) and connect with me on [LinkedIn](https://www.linkedin.com/in/soumyajeet-s-49302b241)!
