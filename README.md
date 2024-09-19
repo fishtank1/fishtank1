@@ -1,5 +1,15 @@
 # Hi, I'm Soumyajeet Sengupta 👋
-I'm a **self-taught full-stack web developer** currently diving deep into the **MERN** stack, along with **NEXT.js**, **NEST.js**, and **Java**. I love building robust and scalable web applications while continuously learning new technologies.
+I'm a **self-taught full-stack developer** passionate about building scalable web applications and constantly learning new technologies. Currently, I'm focused on mastering:
+
+- **MERN stack** (MongoDB, Express, React, Node.js)
+- **NEST.js** and **NEXT.js**
+- **Java**
+- **AWS** for cloud solutions
+- **Redux** for state management
+- **Redis** for caching
+- **DBMS** (SQL and MongoDB)
+
+I love working on challenging projects and exploring innovative ways to solve problems. I'm always eager to collaborate on exciting web development ventures!
 
 ---
 
